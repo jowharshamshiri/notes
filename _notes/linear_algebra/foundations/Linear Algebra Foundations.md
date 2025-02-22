@@ -3,7 +3,7 @@
 
 - ### [[Sets and Fields]]
 
-- ### [[analysis/foundations/Complex Numbers]]
+- ### [[Complex Numbers]]
 
 - ### [[Vector Spaces]]
 
