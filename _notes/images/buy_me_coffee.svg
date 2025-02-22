@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   fill="#000000"
+   width="800px"
+   height="800px"
+   viewBox="0 0 24 24"
+   role="img"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="buy_me_coffee.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <rect
+       x="-23.370478"
+       y="206.73885"
+       width="4.1947012"
+       height="32.359124"
+       id="rect2" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.9757944"
+     inkscape:cx="332.27141"
+     inkscape:cy="395.28404"
+     inkscape:window-width="1824"
+     inkscape:window-height="745"
+     inkscape:window-x="53"
+     inkscape:window-y="61"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1" />
+  <g
+     id="g6"
+     transform="matrix(0.50000001,0,0,0.50000001,2.4047236,5.8474573)"
+     style="stroke-width:2"
+     inkscape:export-filename="buy_me_coffee"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
+    <rect
+       style="fill:#800080;stroke:none;stroke-width:0.18;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1"
+       width="11.37"
+       height="1.92"
+       x="4.8094473"
+       y="11.694915"
+       inkscape:label="rect1"
+       ry="0.47999999"
+       rx="0.47999999" />
+    <path
+       d="M 7.0023037,12.438521 C 6.9477137,12.150019 6.659137,12.114141 6.659137,12.114141 H 5.3667721 c -0.04266,0 -0.047954,0.05636 -0.047954,0.05636 0,0 -0.00581,0.517258 -0.00155,0.834928 0.011581,0.171195 0.1826362,0.18871 0.1826362,0.18871 0,0 0.5838551,-0.0016 0.8450966,-0.0035 0.1721833,-0.03008 0.1894867,-0.181223 0.1877207,-0.263713 0.30736,0.01694 0.5241782,-0.199939 0.4695859,-0.488442 z m -0.781252,0.247965 c -0.087999,0.102616 -0.2832766,0.280804 -0.2832766,0.280804 0,0 -0.00855,0.0084 -0.0219,0.0016 -0.00535,-0.004 -0.00759,-0.0064 -0.00759,-0.0064 -0.031288,-0.03114 -0.2378643,-0.215336 -0.2849007,-0.279253 -0.05007,-0.06816 -0.073521,-0.190686 -0.00643,-0.262017 0.067164,-0.07132 0.2122275,-0.0767 0.308136,0.02874 0,0 0.1105281,-0.125853 0.2449272,-0.068 0.1344703,0.05792 0.129385,0.212651 0.051063,0.304463 z m 0.4359667,0.03376 c -0.065544,0.0082 -0.1187911,0.002 -0.1187911,0.002 v -0.40122 h 0.1250059 c 0,0 0.1392015,0.03892 0.1392015,0.186309 0,0.135104 -0.069567,0.188356 -0.1454163,0.212933 z"
+       id="path1"
+       style="fill:#f9f9f9;stroke-width:2" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.15387px;line-height:0.2;font-family:Chalkboard;-inkscape-font-specification:'Chalkboard Bold';fill:#ffffff;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       x="7.4889297"
+       y="13.036098"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Chalkboard;-inkscape-font-specification:'Chalkboard Bold';fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="7.4889297"
+         y="13.036098">BUY<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.437362px;font-family:Chalkboard;-inkscape-font-specification:'Chalkboard Bold';fill:#ffffff;stroke-width:0.3"
+   id="tspan4"> </tspan>ME<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.437362px;font-family:Chalkboard;-inkscape-font-specification:'Chalkboard Bold';fill:#ffffff;stroke-width:0.3"
+   id="tspan5"> </tspan>COFFEE</tspan></text>
+  </g>
+</svg>
