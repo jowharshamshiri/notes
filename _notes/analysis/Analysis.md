@@ -11,15 +11,3 @@
 ### [[Set Theory]]
 
 ### [[Applied Analysis]]
-
-
-
-
-
-
-- Definitions and theorems
-- Illustrative examples
-- Common proof techniques
-- Common problem types and solution strategies
-- Connections to other topics
-- Visual representations where applicable
