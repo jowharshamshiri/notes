@@ -6,8 +6,11 @@
     <div class="wrapper">
       <main>{{ content }}	</main>
       <footer>{% include footer.html %}</footer>
-    </div>
 
     {% include link-previews.html wrapperQuerySelector="content" %}
+
+	{% include notes_graph.html wrapperQuerySelector="content" %}
+    </div>
+
   </body>
 </html>
