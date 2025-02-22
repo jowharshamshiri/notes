@@ -4,7 +4,7 @@
 
 Taylor and Maclaurin series are representations of functions as infinite series that are derived from the function's derivatives at a single point.
 
-**For comprehensive coverage of this topic, see: [[../../calculus/differential_calculus/Taylor Series]]**
+**For comprehensive coverage of this topic, see: [[Taylor Series]]**
 
 ## Relationship to Other Series
 
@@ -19,6 +19,7 @@ The theory of Taylor series illustrates how the behavior of a function at a sing
 ## Series Perspective
 
 From the perspective of series theory, Taylor series demonstrate:
+
 - How infinite series can represent complex functions
 - The relationship between convergence radius and function properties
 - The importance of remainder estimation in series approximations

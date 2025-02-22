@@ -5,11 +5,13 @@
     <nav>{% include nav.html %}</nav>
     <div class="wrapper">
       <main>{{ content }}	</main>
-      <footer>{% include footer.html %}</footer>
 
     {% include link-previews.html wrapperQuerySelector="content" %}
+	
 
 	{% include notes_graph.html wrapperQuerySelector="content" %}
+
+	<footer>{% include footer.html %}</footer>
     </div>
 
   </body>

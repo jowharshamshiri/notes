@@ -4,7 +4,7 @@
 
 Principal Component Analysis (PCA) is a dimensionality reduction technique with foundations in linear algebra, particularly eigendecomposition.
 
-**For comprehensive coverage of this topic, see: [[../../../numerical_analysis/Principal Component Analysis]]**
+**For comprehensive coverage of this topic, see: [[Principal Component Analysis]]**
 
 ## Linear Algebra Connection
 

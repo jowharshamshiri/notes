@@ -1,8 +1,6 @@
 ---
 ---
 
-# Optimization (Multivariable)
-
 ## Unconstrained Optimization
 
 ### Fundamental Concepts
@@ -335,8 +333,8 @@ Solution:
 - [[Critical Points (Multivariable)]]
 - [[Local Extrema]]
 - [[Multivariable Calculus]]
-- [[../../linear_algebra/advanced_topics/Least Squares Approximation]]
-- [[../differential_calculus/Applications(Optimization Problems)]]
+- [[Least Squares Approximation]]
+- [[Applications(Optimization Problems)]]
 - [[Applied Optimization]]
 
 ## Exercises

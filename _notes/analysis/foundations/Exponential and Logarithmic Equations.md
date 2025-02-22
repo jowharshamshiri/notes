@@ -2,7 +2,7 @@
 ---
 
 ### See Also
-### - [[Euler's Number]]
+### - [[Eulers Number]]
 ### - [[Natural Logarithm]]
 ### Exercises
 

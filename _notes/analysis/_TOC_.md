@@ -25,7 +25,7 @@ title: analysis
 [[analysis/foundations/Limits.md]]
 [[analysis/foundations/Logic.md]]
 [[analysis/foundations/Numbers.md]]
-[[analysis/foundations/Euler's Number.md]]
+[[Eulers Number]]
 [[analysis/foundations/Natural Logarithm.md]]
 [[analysis/foundations/Complex Numbers.md]]
 [[analysis/sequences_and_series/Applications.md]]

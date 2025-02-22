@@ -3,15 +3,18 @@
 
 ![[Screenshot 2025-02-20 at 16.14.26.png]]
 ![[Screenshot 2025-02-20 at 13.40.10.png]]
+
 # Local Minima & Maxima
 
 ![[Screenshot 2025-02-20 at 13.41.14.png]]
 ![[Pasted image 20250220164940.png]]
 
 # Inflection Point
+
 ![[Pasted image 20250220165034.png]]
 
 # Constant Function
+
 ![[Pasted image 20250220165050.png]]
 
 # Critical Points
@@ -19,12 +22,16 @@
 ## Definition and Types
 
 ### Basic Definition
+
 A critical point of a function $f(x)$ is a value $x = c$ in the domain of $f$ where either:
+
 1. $f'(c) = 0$ (stationary point), or
 2. $f'(c)$ does not exist (non-differentiable point)
 
 ### Types of Critical Points
+
 Critical points can be classified as:
+
 1. **Local maximum**: A point where the function value is greater than at nearby points
 2. **Local minimum**: A point where the function value is less than at nearby points
 3. **Saddle point**: A critical point that is neither a local maximum nor a local minimum
@@ -80,6 +87,7 @@ Note: Not all points where $f''(x) = 0$ are inflection points; check if $f''(x)$
 ## Global Extrema
 
 ### On a Closed Interval [a, b]
+
 To find global (absolute) maximum and minimum values of a continuous function $f(x)$ on a closed interval $[a, b]$:
 
 1. Find all critical points of $f(x)$ in $(a, b)$
@@ -87,6 +95,7 @@ To find global (absolute) maximum and minimum values of a continuous function $f
 3. The largest value is the global maximum; the smallest value is the global minimum
 
 ### On an Open Interval or Unbounded Domain
+
 To find global extrema on an unbounded domain:
 
 1. Find all critical points
@@ -97,42 +106,54 @@ To find global extrema on an unbounded domain:
 ## Analysis Process for Finding Critical Points
 
 ### Step 1: Find the Domain
+
 Determine the domain of the function to establish where critical points can exist.
 
 ### Step 2: Find the Derivative
+
 Compute $f'(x)$ using appropriate differentiation rules.
 
 ### Step 3: Locate Critical Points
+
 Solve $f'(x) = 0$ and identify points where $f'(x)$ does not exist.
 
 ### Step 4: Classify Critical Points
+
 Use the first derivative test, second derivative test, or higher-order derivative test to classify each critical point.
 
 ### Step 5: Determine Global Behavior
+
 Analyze the behavior of $f(x)$ as $x$ approaches any domain boundaries or $\pm \infty$ to understand the complete behavior of the function.
 
 ## Special Cases and Techniques
 
 ### Rational Functions
+
 For rational functions $f(x) = \frac{p(x)}{q(x)}$:
+
 1. Critical points can occur where $p'(x)q(x) - p(x)q'(x) = 0$
 2. Also check points where $q(x) = 0$ (vertical asymptotes)
 3. Analyze horizontal or oblique asymptotic behavior as $x \to \pm \infty$
 
 ### Transcendental Functions
+
 For functions involving trigonometric, exponential, or logarithmic terms:
+
 1. Use appropriate derivative rules and identities
 2. Consider periodicity for trigonometric functions
 3. Pay attention to domain restrictions (e.g., $\ln x$ requires $x > 0$)
 
 ### Piecewise Functions
+
 For piecewise-defined functions:
+
 1. Find critical points within each piece
 2. Check junction points where the function changes definition
 
 ## Worked Examples
 
 ### Example 1: Polynomial Function
+
 Consider $f(x) = x^3 - 3x^2 + x - 3$
 
 Step 1: Domain is ℝ (all real numbers)
@@ -149,6 +170,7 @@ At $x = 1 + \frac{\sqrt{6}}{3}$: $f''(x) = 6(1 + \frac{\sqrt{6}}{3}) - 6 = 2\sqr
 At $x = 1 - \frac{\sqrt{6}}{3}$: $f''(x) = 6(1 - \frac{\sqrt{6}}{3}) - 6 = -2\sqrt{6} < 0$ → Local maximum
 
 ### Example 2: Rational Function
+
 Consider $f(x) = \frac{x-2}{x^2+2}$
 
 Step 1: Domain is ℝ (all real numbers)
@@ -167,6 +189,7 @@ For $x = 2 + \sqrt{6}$: local minimum
 For $x = 2 - \sqrt{6}$: local maximum
 
 ### Example 3: Transcendental Function
+
 Consider $f(x) = xe^{1/x}$
 
 Step 1: Domain is $x \neq 0$
@@ -188,6 +211,7 @@ Also, analyze the behavior as $x \to 0^+$, $x \to 0^-$, and $x \to \pm \infty$ t
 For functions of two or more variables, critical points are found where all partial derivatives equal zero or do not exist.
 
 For a function $f(x, y)$:
+
 1. Compute partial derivatives $f_x(x, y)$ and $f_y(x, y)$
 2. Find points $(a, b)$ where $f_x(a, b) = 0$ and $f_y(a, b) = 0$
 3. Classify using the second derivative test for functions of two variables:
@@ -196,10 +220,12 @@ For a function $f(x, y)$:
    - If $D > 0$ and $f_{xx}(a, b) < 0$, then $(a, b)$ is a local maximum
    - If $D < 0$, then $(a, b)$ is a saddle point
    - If $D = 0$, the test is inconclusive
+
 ## See Also
+
 - [[Critical Points (Multivariable)]] - For classification of critical points in multiple variables
 - [[Extrema]] - For global extrema concepts
-- [[../multivariable_calculus/Local Extrema]] - For local extrema in multiple dimensions
+- [[Local Extrema]] - For local extrema in multiple dimensions
 - [[Critical Points (Multivariable)]]
 - [[Derivatives]]
 - [[Extrema]]
@@ -234,7 +260,7 @@ For a function $f(x, y)$:
    a) $\ln|x|-2x$
    b) $2x^3-9x^2+12x-1$
    c) $x(x-1)^2$
-   
+
    1) Find the domain and asymptotes (if there are);
    2) Detect the monotonicity intervals and classify the critical points.
    3) Collect all the obtained information on the cartesian plan drawing the graph.
@@ -278,10 +304,10 @@ For a function $f(x, y)$:
 18. Exercises (3-6 April), Question 5: Find global maximum and minimum of functions in given intervals.
 
 20. Classify all the critical points of the following functions:
-	a) $f(x) = \frac{x^3}{x-1}$
-	b) $f(x) = \frac{x+2}{x-2}$
-	c) $f(x) = \frac{1}{x^2+x}$
-	d) $f(x) = x^4-4x^3+4x^2+1$
-	e) $f(x) = x^2\ln x$
-	f) $f(x) = xe^{1-x}$
-	g) $f(x) = e^x-1$
+ a) $f(x) = \frac{x^3}{x-1}$
+ b) $f(x) = \frac{x+2}{x-2}$
+ c) $f(x) = \frac{1}{x^2+x}$
+ d) $f(x) = x^4-4x^3+4x^2+1$
+ e) $f(x) = x^2\ln x$
+ f) $f(x) = xe^{1-x}$
+ g) $f(x) = e^x-1$

@@ -4,6 +4,7 @@
 ## Vector Fields
 
 ### Definition
+
 A vector field $\mathbf{F}$ in 3D space assigns a vector $\mathbf{F}(x,y,z)$ to each point $(x,y,z)$ in its domain:
 $$\mathbf{F}(x,y,z) = P(x,y,z)\mathbf{i} + Q(x,y,z)\mathbf{j} + R(x,y,z)\mathbf{k}$$
 
@@ -11,13 +12,17 @@ In 2D space, a vector field has the form:
 $$\mathbf{F}(x,y) = P(x,y)\mathbf{i} + Q(x,y)\mathbf{j}$$
 
 ### Conservative Vector Fields
+
 A vector field $\mathbf{F}$ is conservative if there exists a scalar function $f$ such that $\mathbf{F} = \nabla f$. In this case:
+
 - $f$ is called the potential function of $\mathbf{F}$
 - Line integrals of $\mathbf{F}$ are path-independent
 - $\oint_C \mathbf{F} \cdot d\mathbf{r} = 0$ for any closed curve $C$
 
 ### Criteria for Conservative Fields
+
 A vector field $\mathbf{F} = P\mathbf{i} + Q\mathbf{j} + R\mathbf{k}$ is conservative if and only if:
+
 - $\frac{\partial P}{\partial y} = \frac{\partial Q}{\partial x}$
 - $\frac{\partial P}{\partial z} = \frac{\partial R}{\partial x}$
 - $\frac{\partial Q}{\partial z} = \frac{\partial R}{\partial y}$
@@ -27,27 +32,32 @@ In a simply connected domain, these conditions are equivalent to $\nabla \times 
 ## Differential Operators
 
 ### Gradient
+
 The gradient of a scalar function $f(x,y,z)$ is a vector field:
 $$\nabla f = \frac{\partial f}{\partial x}\mathbf{i} + \frac{\partial f}{\partial y}\mathbf{j} + \frac{\partial f}{\partial z}\mathbf{k}$$
 
 Properties:
+
 - $\nabla f$ points in the direction of steepest increase of $f$
 - $\nabla f$ is perpendicular to level surfaces of $f$
 - The magnitude $|\nabla f|$ gives the rate of change in the direction of steepest increase
 
 ### Divergence
+
 The divergence of a vector field $\mathbf{F} = P\mathbf{i} + Q\mathbf{j} + R\mathbf{k}$ is a scalar field:
 $$\nabla \cdot \mathbf{F} = \frac{\partial P}{\partial x} + \frac{\partial Q}{\partial y} + \frac{\partial R}{\partial z}$$
 
 Physical interpretation:
+
 - Measures the rate at which "flux" exits a small region around a point
 - Positive divergence: source (field lines flow outward)
 - Negative divergence: sink (field lines flow inward)
 - Zero divergence: no net creation or destruction (incompressible flow)
 
 ### Curl
+
 The curl of a vector field $\mathbf{F} = P\mathbf{i} + Q\mathbf{j} + R\mathbf{k}$ is a vector field:
-$$\nabla \times \mathbf{F} = \begin{vmatrix} 
+$$\nabla \times \mathbf{F} = \begin{vmatrix}
 \mathbf{i} & \mathbf{j} & \mathbf{k} \\
 \frac{\partial}{\partial x} & \frac{\partial}{\partial y} & \frac{\partial}{\partial z} \\
 P & Q & R
@@ -297,7 +307,7 @@ Verify Stokes' theorem for $\mathbf{F}(x,y,z) = (-y, x, z^2)$ where $C$ is the c
 
 Solution:
 1. Compute the curl of $\mathbf{F}$:
-   - $$\nabla \times \mathbf{F} = \begin{vmatrix} 
+   - $$\nabla \times \mathbf{F} = \begin{vmatrix}
      \mathbf{i} & \mathbf{j} & \mathbf{k} \\
      \frac{\partial}{\partial x} & \frac{\partial}{\partial y} & \frac{\partial}{\partial z} \\
      -y & x & z^2
@@ -324,7 +334,7 @@ Solution:
 This seems to contradict Stokes' theorem! Let's double-check our calculations:
 
 Corrected calculation of the curl:
-- $\nabla \times \mathbf{F} = \begin{vmatrix} 
+- $\nabla \times \mathbf{F} = \begin{vmatrix}
   \mathbf{i} & \mathbf{j} & \mathbf{k} \\
   \frac{\partial}{\partial x} & \frac{\partial}{\partial y} & \frac{\partial}{\partial z} \\
   -y & x & z^2
@@ -374,17 +384,17 @@ This matches the line integral result, verifying Stokes' theorem.
 
 The concepts in vector calculus build directly on fundamental ideas from linear algebra:
 
-- Vectors and vector operations from [[../../linear_algebra/vector_geometry/Vectors]]
-- Dot products from [[../../linear_algebra/vector_geometry/Dot (Inner) Product]]
-- Cross products from [[../../linear_algebra/vector_geometry/Cross Product]]
-- Vector spaces from [[../../linear_algebra/foundations/Vector Spaces]]
+- Vectors and vector operations from [[linear_algebra/vector_geometry/Vectors]]
+- Dot products from [[Dot (Inner) Product]]
+- Cross products from [[Cross Product]]
+- Vector spaces from [[Vector Spaces]]
 
 ## See Also
-- [[../../linear_algebra/vector_geometry/Vector Geometry]]
+- [[Vector Geometry]]
 - [[Gradients]]
 - [[Multiple Integrals]]
-- [[../../calculus/differential_calculus/Derivatives]] - For foundation of differential operators
-- [[../../calculus/integral_calculus/Integration Techniques]] - For foundation of integral operators
+- [[Derivatives]] - For foundation of differential operators
+- [[Integration Techniques]] - For foundation of integral operators
 ### See Also
 
 - ### [[Multivariable Calculus]]

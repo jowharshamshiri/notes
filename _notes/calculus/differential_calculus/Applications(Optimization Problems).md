@@ -3,12 +3,13 @@
 
 # Optimization Applications (Single Variable)
 
-This file covers applications of differentiation to optimization problems in single-variable calculus. For multivariable optimization, see [[../../multivariable_calculus/Optimization]].
+This file covers applications of differentiation to optimization problems in single-variable calculus. For multivariable optimization, see [[Optimization(Multivariable)]].
 
 ## See Also
-- [[../../multivariable_calculus/Optimization]] - For multivariable optimization problems
-- [[../../../analysis/applied_analysis/Optimization]] - For numerical and applied optimization techniques
-- [[../Critical Points]] - For theory of extrema in single-variable functions
+
+- [[Optimization(Multivariable)]] - For multivariable optimization problems
+- [[Applied Optimization]] - For numerical and applied optimization techniques
+- [[Critical Points]] - For theory of extrema in single-variable functions
 
 ### Exercises
 

@@ -103,6 +103,7 @@ nav {
 #notes-entry-container {
   display: grid;
   grid-gap: 2em;
+  min-height: 30vh;
   grid-template-areas:
     "content"
     "side";

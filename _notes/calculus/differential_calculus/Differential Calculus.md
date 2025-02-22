@@ -13,7 +13,7 @@
 
 - ### [[Applications(Optimization Problems)]]
 
-- ### [[Euler's Number]] 
+- ### [[Eulers Number]] 
 	- For exponential functions
 
 - ### [[Natural Logarithm]]

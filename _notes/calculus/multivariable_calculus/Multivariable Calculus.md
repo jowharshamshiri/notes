@@ -15,7 +15,7 @@
 
 - ### [[Local Extrema]]
 
-- ### [[calculus/multivariable_calculus/Optimization]]
+- ### [[Optimization(Multivariable)]]
 
 - ### [[Multiple Integrals]]
 

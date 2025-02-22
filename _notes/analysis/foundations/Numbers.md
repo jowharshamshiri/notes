@@ -6,7 +6,7 @@ See Also
 - [[analysis/foundations/Complex Numbers]]
 - [[Series]]
 - [[Permutations]]
-- [[Euler's Number]]
+- [[Eulers Number]]
 
 ### Exercises
 

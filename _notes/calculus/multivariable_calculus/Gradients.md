@@ -246,7 +246,7 @@ See Also:
 - [[Directional Derivatives]]
 - [[Critical Points (Multivariable)]]
 - [[Local Extrema]]
-- [[calculus/multivariable_calculus/Optimization]]
+- [[Optimization(Multivariable)]]
 - [[Multivariable Calculus]]
 
 ### Exercises

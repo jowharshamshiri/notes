@@ -40,26 +40,32 @@ where $\xi$ is some point between a and x.
 ## Common Taylor/Maclaurin Series
 
 ### Exponential Function
+
 $$e^x = \sum_{n=0}^{\infty} \frac{x^n}{n!} = 1 + x + \frac{x^2}{2!} + \frac{x^3}{3!} + \ldots$$
 Convergence: For all $x \in \mathbb{R}$ (radius of convergence $R = \infty$)
 
 ### Sine Function
+
 $$\sin x = \sum_{n=0}^{\infty} \frac{(-1)^n x^{2n+1}}{(2n+1)!} = x - \frac{x^3}{3!} + \frac{x^5}{5!} - \ldots$$
 Convergence: For all $x \in \mathbb{R}$ (radius of convergence $R = \infty$)
 
 ### Cosine Function
+
 $$\cos x = \sum_{n=0}^{\infty} \frac{(-1)^n x^{2n}}{(2n)!} = 1 - \frac{x^2}{2!} + \frac{x^4}{4!} - \ldots$$
 Convergence: For all $x \in \mathbb{R}$ (radius of convergence $R = \infty$)
 
 ### Natural Logarithm
+
 $$\ln(1+x) = \sum_{n=1}^{\infty} \frac{(-1)^{n+1} x^n}{n} = x - \frac{x^2}{2} + \frac{x^3}{3} - \ldots$$
 Convergence: For $-1 < x \leq 1$ (radius of convergence $R = 1$)
 
 ### Arctangent Function
+
 $$\arctan x = \sum_{n=0}^{\infty} \frac{(-1)^n x^{2n+1}}{2n+1} = x - \frac{x^3}{3} + \frac{x^5}{5} - \ldots$$
 Convergence: For $-1 \leq x \leq 1$ (radius of convergence $R = 1$)
 
 ### Binomial Series
+
 $$(1+x)^{\alpha} = \sum_{n=0}^{\infty} \binom{\alpha}{n} x^n = 1 + \alpha x + \frac{\alpha(\alpha-1)}{2!}x^2 + \ldots$$
 where $\binom{\alpha}{n} = \frac{\alpha(\alpha-1)(\alpha-2)\ldots(\alpha-n+1)}{n!}$
 
@@ -68,19 +74,23 @@ Convergence: For $|x| < 1$ (radius of convergence $R = 1$), and also for $x = 1$
 ## Applications of Taylor Series
 
 ### Approximation of Functions
+
 Taylor polynomials can be used to approximate functions to arbitrary precision within their radius of convergence:
 $$f(x) \approx \sum_{k=0}^{n} \frac{f^{(k)}(a)}{k!} (x-a)^k$$
 
 ### Error Estimation
+
 The maximum error when approximating $f(x)$ by the nth-degree Taylor polynomial on an interval $[a, b]$ is bounded by:
 $$|f(x) - P_n(x)| \leq \frac{M}{(n+1)!} |x-a|^{n+1}$$
 where $M$ is an upper bound for $|f^{(n+1)}(\xi)|$ on the interval.
 
 ### Calculation of Limits
+
 Taylor series can be used to calculate limits of indeterminate forms:
 $$\lim_{x \to 0} \frac{\sin x - x}{x^3} = \lim_{x \to 0} \frac{x - \frac{x^3}{6} + O(x^5) - x}{x^3} = \lim_{x \to 0} \frac{-\frac{x^3}{6} + O(x^5)}{x^3} = -\frac{1}{6}$$
 
 ### Integration of Difficult Functions
+
 Taylor series can be used to integrate functions that don't have elementary antiderivatives:
 $$\int e^{-x^2} \, dx = \int \sum_{n=0}^{\infty} \frac{(-1)^n x^{2n}}{n!} \, dx = C + \sum_{n=0}^{\infty} \frac{(-1)^n x^{2n+1}}{n!(2n+1)}$$
 
@@ -93,7 +103,8 @@ Taylor series are a specific type of power series where the coefficients are det
 Taylor series can be used to find solutions to differential equations, particularly when other methods are difficult to apply. The coefficients in the series can often be determined recursively from the differential equation.
 
 ## See Also
-- [[../../../analysis/sequences_and_series/Power Series]]
-- [[../../../analysis/sequences_and_series/Series]]
+
+- [[Power Series]]
+- [[Series]]
 - [[L'Hôpital's Rule]]
 - [[Derivatives]]
