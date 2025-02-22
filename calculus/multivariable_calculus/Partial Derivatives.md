@@ -205,7 +205,7 @@ As expected, $f_{xy} = f_{yx}$.
 See Also:
 - [[Gradients]]
 - [[Directional Derivatives]]
-- [[Critical Points(Classification)]]
+- [[Critical Points (Multivariable)]]
 - [[Local Extrema]]
 - [[Multivariable Calculus]]
 

@@ -241,9 +241,9 @@ Solving this system with the constraint yields critical points where the functio
 See Also:
 - [[Partial Derivatives]]
 - [[Directional Derivatives]]
-- [[Critical Points(Classification)]]
+- [[Critical Points (Multivariable)]]
 - [[Local Extrema]]
-- [[Optimization]]
+- [[calculus/multivariable_calculus/Optimization]]
 - [[Multivariable Calculus]]
 
 ### Exercises

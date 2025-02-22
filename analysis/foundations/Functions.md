@@ -3,7 +3,7 @@ See also:
 [[Trigonometric Functions]]
 [[Asymptotes]]
 [[Critical Points]]
-[[Critical Points(Classification)]]
+[[Critical Points (Multivariable)]]
 [[Taylor Series]]
 [[Gaussian Elimination]]
 [[Gauss-Jordan Elimination]]

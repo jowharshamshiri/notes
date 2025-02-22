@@ -123,35 +123,6 @@ For problems where both the objective function and feasible region are convex:
 2. If the objective function is strictly convex, there is at most one global minimum
 3. The set of all optimal solutions is convex
 
-## Numerical Methods for Optimization
-
-### Gradient Descent
-
-To minimize $f(x)$ iteratively:
-
-1. Start with an initial guess $x_0$
-2. Update: $x_{k+1} = x_k - \alpha_k \nabla f(x_k)$
-3. Terminate when $\|\nabla f(x_k)\| < \epsilon$
-4. Choose step size $\alpha_k$ by line search or fixed value
-
-### Newton's Method
-
-To find critical points of $f(x)$:
-
-1. Start with an initial guess $x_0$
-2. Update: $x_{k+1} = x_k - [H_f(x_k)]^{-1} \nabla f(x_k)$
-3. Terminate when $\|\nabla f(x_k)\| < \epsilon$
-4. Requires computation of the Hessian matrix $H_f$
-
-### Quasi-Newton Methods (BFGS)
-
-Similar to Newton's method but approximates the Hessian:
-
-1. Start with an initial guess $x_0$ and an initial Hessian approximation $B_0$
-2. Update: $x_{k+1} = x_k - \alpha_k B_k^{-1} \nabla f(x_k)$
-3. Update $B_k$ to $B_{k+1}$ using the BFGS formula
-4. Avoids explicit computation of the Hessian
-
 ## Worked Examples
 
 ### Example 1: Finding and Classifying Critical Points
@@ -356,20 +327,16 @@ Solution:
 3. **Verify extreme values by comparing function values at all critical points**
 4. **Use geometric intuition as a sanity check**
 
-See Also:
+## See Also
 - [[Gradients]]
-- [[Critical Points(Classification)]]
+- [[Critical Points (Multivariable)]]
 - [[Local Extrema]]
 - [[Multivariable Calculus]]
-- [[Least Squares Approximation]]
-### See Also
+- [[../../linear_algebra/advanced_topics/Least Squares Approximation]]
+- [[../differential_calculus/Applications(Optimization Problems)]]
+- [[Applied Optimization]]
 
-- ### [[Applications(Optimization Problems)]] (in Differential Calculus)
-
-- ### [[Optimization]] (in Multivariable Calculus)
-
-- ### [[Least Squares Approximation]] (in Advanced Linear Algebra)
-### Exercises
+## Exercises
 
 1. Use Lagrange multipliers to optimize $f(x,y) = x^2+3y$ subject to $\frac{x^2}{4} + \frac{y^2}{9} = 1$.
 

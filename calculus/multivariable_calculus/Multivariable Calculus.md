@@ -8,11 +8,11 @@
 
 - ### [[Directional Derivatives]]
 
-- ### [[Critical Points(Classification)]]
+- ### [[Critical Points (Multivariable)]]
 
 - ### [[Local Extrema]]
 
-- ### [[Optimization]]
+- ### [[calculus/multivariable_calculus/Optimization]]
 
 - ### [[Multiple Integrals]]
 

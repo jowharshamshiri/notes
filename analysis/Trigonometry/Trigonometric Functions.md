@@ -107,14 +107,14 @@ For 2sin²x > 1:
   - The hypotenuse is a√2
   - Both legs are equal (a)
 
-See Also:
-- [[45-45-90 Triangle]]
-- [[30-60-90 Triangle]]
+## See Also
 - [[Trigonometric Identities]]
-- [[Trigonometric Equations & Inequalities]]
-See Also:
-- [[45-45-90 Triangle]]
+- [[Trigonometric Equations]]
+- [[Trigonometric Inequalities]]
 - [[30-60-90 Triangle]]
+- [[45-45-90 Triangle]]
+- [[../../../calculus/differential_calculus/Derivatives]] - For derivatives of trigonometric functions
+- [[../../../calculus/integral_calculus/Integration Techniques]] - For integration of trigonometric functions
 
 ### Exercises
 

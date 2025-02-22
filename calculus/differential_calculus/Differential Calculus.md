@@ -10,8 +10,11 @@
 
 - ### [[Applications(Optimization Problems)]]
 
-- ### [[Euler's Number]]
+- ### [[Euler's Number]] 
+	- For exponential functions
 
 - ### [[Natural Logarithm]]
+	- For logarithmic functions
 
 - ### [[Taylor Series]]
+

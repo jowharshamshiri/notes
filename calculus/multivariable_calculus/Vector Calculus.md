@@ -1,5 +1,3 @@
-
-
 ## Vector Fields
 
 ### Definition
@@ -369,12 +367,21 @@ This matches the line integral result, verifying Stokes' theorem.
 3. Divergence theorem: Use for flux integrals across closed surfaces
 4. Check that all conditions are satisfied before applying these theorems
 
-See Also:
-- [[Multivariable Calculus]]
+## Connections to Linear Algebra
+
+The concepts in vector calculus build directly on fundamental ideas from linear algebra:
+
+- Vectors and vector operations from [[../../linear_algebra/vector_geometry/Vectors]]
+- Dot products from [[../../linear_algebra/vector_geometry/Dot (Inner) Product]]
+- Cross products from [[../../linear_algebra/vector_geometry/Cross Product]]
+- Vector spaces from [[../../linear_algebra/foundations/Vector Spaces]]
+
+## See Also
+- [[../../linear_algebra/vector_geometry/Vector Geometry]]
 - [[Gradients]]
-- [[Partial Derivatives]]
 - [[Multiple Integrals]]
-- [[Vector Geometry]] (in Linear Algebra)
+- [[../../calculus/differential_calculus/Derivatives]] - For foundation of differential operators
+- [[../../calculus/integral_calculus/Integration Techniques]] - For foundation of integral operators
 ### See Also
 
 - ### [[Multivariable Calculus]]

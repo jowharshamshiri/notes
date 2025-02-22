@@ -193,9 +193,11 @@ For a function $f(x, y)$:
    - If $D > 0$ and $f_{xx}(a, b) < 0$, then $(a, b)$ is a local maximum
    - If $D < 0$, then $(a, b)$ is a saddle point
    - If $D = 0$, the test is inconclusive
-
-See Also:
-- [[Critical Points(Classification)]]
+## See Also
+- [[Critical Points (Multivariable)]] - For classification of critical points in multiple variables
+- [[Extrema]] - For global extrema concepts
+- [[../multivariable_calculus/Local Extrema]] - For local extrema in multiple dimensions
+- [[Critical Points (Multivariable)]]
 - [[Derivatives]]
 - [[Extrema]]
 - [[Gradients]] (for multivariable functions)

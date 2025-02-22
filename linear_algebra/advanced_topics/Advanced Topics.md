@@ -12,4 +12,4 @@
 
 - ### [[Singular Value Decomposition]]
 
-- ### [[Principal Component Analysis]]
+- ### [[Principal Component Analysis (Linear Algebra Perspective)]]

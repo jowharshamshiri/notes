@@ -90,4 +90,4 @@
 
 See Also:
 - [[Trigonometric Functions]]
-- [[Trigonometric Equations & Inequalities]]
+- [[Trigonometric Equations]]

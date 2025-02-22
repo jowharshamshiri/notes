@@ -6,4 +6,4 @@
 
 - ### [[Numerical Methods]]
 
-- ### [[Optimization]]
+- ### [[Applied Optimization]]

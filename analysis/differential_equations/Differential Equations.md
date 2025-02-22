@@ -6,4 +6,4 @@
 
 - ### [[Systems of ODEs]]
 
-- ### [[Applications]]
+- ### [[Differential Equations Applications]]

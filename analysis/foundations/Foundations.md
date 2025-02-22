@@ -16,6 +16,9 @@
 
 - ### [[Numbers]]
 
-- ### [[Trigonometric Equations & Inequalities]]
-
 - ### [[Exponential and Logarithmic Equations]]
+
+- ### [[Trigonometry/Trigonometric Functions]]
+- ### [[Trigonometry/Trigonometric Equations]]
+- ### [[Trigonometry/Trigonometric Inequalities]]
+- ### [[Trigonometry/Trigonometric Identities]]

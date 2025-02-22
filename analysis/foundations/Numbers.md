@@ -1,6 +1,6 @@
 
 See Also
-- [[Complex Numbers]]
+- [[analysis/foundations/Complex Numbers]]
 - [[Series]]
 - [[Permutations]]
 - [[Euler's Number]]

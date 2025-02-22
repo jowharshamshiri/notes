@@ -1,6 +1,6 @@
 - ### [[Sets and Fields]]
 
-- ### [[Complex Numbers]]
+- ### [[analysis/foundations/Complex Numbers]]
 
 - ### [[Vector Spaces]]
 
