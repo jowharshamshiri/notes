@@ -33,15 +33,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="1.9757944"
-     inkscape:cx="332.27141"
-     inkscape:cy="395.28404"
+     inkscape:zoom="0.9878972"
+     inkscape:cx="425.65158"
+     inkscape:cy="420.08419"
      inkscape:window-width="1824"
      inkscape:window-height="745"
      inkscape:window-x="53"
-     inkscape:window-y="61"
+     inkscape:window-y="33"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg1" />
+     inkscape:current-layer="g6" />
   <g
      inkscape:groupmode="layer"
      id="layer1"
@@ -72,15 +72,14 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.15387px;line-height:0.2;font-family:Chalkboard;-inkscape-font-specification:'Chalkboard Bold';fill:#ffffff;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        x="7.4889297"
        y="13.036098"
-       id="text3"><tspan
+       id="text3"
+       inkscape:export-filename="buy_me_coffee.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan3"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Chalkboard;-inkscape-font-specification:'Chalkboard Bold';fill:#ffffff;stroke:none;stroke-width:0.3"
          x="7.4889297"
-         y="13.036098">BUY<tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.437362px;font-family:Chalkboard;-inkscape-font-specification:'Chalkboard Bold';fill:#ffffff;stroke-width:0.3"
-   id="tspan4"> </tspan>ME<tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.437362px;font-family:Chalkboard;-inkscape-font-specification:'Chalkboard Bold';fill:#ffffff;stroke-width:0.3"
-   id="tspan5"> </tspan>COFFEE</tspan></text>
+         y="13.036098">Buy me coffee</tspan></text>
   </g>
 </svg>
