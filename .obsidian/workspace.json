@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "analysis/sequences_and_series/Convergence Tests.md",
+                "file": "analysis/differential_calculus/Derivatives.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Convergence Tests"
+              "title": "Derivatives"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 290.5
   },
   "right": {
     "id": "859e497991a618eb",
@@ -166,32 +166,32 @@
   },
   "active": "84794faf91510df2",
   "lastOpenFiles": [
+    "analysis/differential_calculus/Differential Calculus.md",
+    "analysis/differential_calculus/Derivatives.md",
+    "analysis/applied_analysis/Optimization.md",
+    "analysis/applied_analysis/Applied Analysis.md",
+    "analysis/multivariable_calculus/Vector Calculus.md",
+    "analysis/multivariable_calculus/Optimization.md",
+    "analysis/sequences_and_series/Series.md",
+    "analysis/sequences_and_series/Convergence Tests.md",
+    "analysis/integral_calculus/Improper Integrals.md",
+    "analysis/integral_calculus/Integration Techniques.md",
+    "analysis/multivariable_calculus/Gradients.md",
+    "analysis/multivariable_calculus/Partial Derivatives.md",
+    "analysis/differential_calculus/Rules of Derivation.md",
+    "analysis/differential_calculus/Critical Points.md",
+    "analysis/differential_calculus/L'Hôpital's Rule.md",
+    "analysis/foundations/Limits.md",
+    "analysis/foundations/Trigonometric Equations & Inequalities/Trigonometric Identities.md",
+    "analysis/foundations/Trigonometric Equations & Inequalities/Trigonometric Functions.md",
     "README.md",
     "Readme.md",
     "analysis/sequences_and_series/Power Series.md",
     "analysis/sequences_and_series/Sequences.md",
     "analysis/sequences_and_series/Sequences and Series.md",
-    "analysis/sequences_and_series/Series.md",
     "analysis/sequences_and_series/Taylor and Maclaurin Series.md",
     "data_mining_and_big_data/Data Mining and Big Data.md",
     "graphics/Graphics.md",
-    "econometrics/Econometrics.md",
-    "data_visualization/Data Visualization.md",
-    "analysis/differential_calculus/Euler's Number.md",
-    "analysis/Analysis.md",
-    "analysis/Set Theory/Set Theory.md",
-    "analysis/sequences_and_series/Convergence Tests.md",
-    "analysis/sequences_and_series/Binomial Expansion.md",
-    "analysis/sequences_and_series/Applications.md",
-    "analysis/multivariable_calculus/Vector Calculus.md",
-    "analysis/multivariable_calculus/Partial Derivatives.md",
-    "analysis/multivariable_calculus/Optimization.md",
-    "analysis/multivariable_calculus/Multivariable Calculus.md",
-    "analysis/multivariable_calculus/Multiple Integrals.md",
-    "analysis/multivariable_calculus/Local Extrema.md",
-    "analysis/multivariable_calculus/Gradients.md",
-    "analysis/multivariable_calculus/Functions of Several Variables.md",
-    "analysis/multivariable_calculus/Directional Derivatives.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
