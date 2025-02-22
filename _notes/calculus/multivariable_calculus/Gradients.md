@@ -1,8 +1,6 @@
 ---
 ---
 
-# Gradients
-
 ## Definition and Notation
 
 The gradient of a scalar function $f(x, y, z, ...)$ of multiple variables is a vector field that points in the direction of the greatest rate of increase of the function at each point, with a magnitude equal to the rate of increase in that direction.

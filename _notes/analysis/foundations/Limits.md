@@ -1,8 +1,6 @@
 ---
 ---
 
-# Limits
-
 ## Formal Definition
 
 ### ε-δ Definition

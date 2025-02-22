@@ -1,7 +1,6 @@
 ---
 ---
 
-
 ## Definition
 
 For a square matrix A, the inverse matrix A⁻¹ is a matrix such that:

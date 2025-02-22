@@ -2,7 +2,6 @@
 ---
 
 ![[Screenshot 2025-02-20 at 16.14.48.png]]
-# Trigonometric Identities
 
 ## Fundamental Identities
 

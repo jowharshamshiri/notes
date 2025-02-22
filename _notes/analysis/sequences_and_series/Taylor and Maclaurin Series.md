@@ -1,7 +1,6 @@
 ---
 ---
 
-
 Taylor and Maclaurin series are representations of functions as infinite series that are derived from the function's derivatives at a single point.
 
 **For comprehensive coverage of this topic, see: [[Taylor Series]]**

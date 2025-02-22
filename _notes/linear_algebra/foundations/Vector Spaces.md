@@ -7,7 +7,6 @@
 
 
 ![[Screenshot 2025-02-20 at 15.30.42.png]]
-# Vector Spaces
 
 ## Definition
 A vector space V over a field F consists of a set of elements (called vectors) along with two operations (vector addition and scalar multiplication) that satisfy the following axioms:

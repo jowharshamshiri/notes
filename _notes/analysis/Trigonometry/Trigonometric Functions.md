@@ -5,7 +5,6 @@
 ![[Screenshot 2025-02-20 at 13.50.09.png]]![[Screenshot 2025-02-20 at 15.36.21.png]]![[Screenshot 2025-02-20 at 15.39.20.png]
 ![[Screenshot 2025-02-20 at 15.40.36.png]]
 
-# Trigonometric Functions
 
 ## Core Functions and Their Properties
 

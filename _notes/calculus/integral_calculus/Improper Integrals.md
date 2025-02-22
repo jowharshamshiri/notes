@@ -1,10 +1,8 @@
 ---
 ---
 
-### Improper Integrals
 
 ![[Pasted image 20250220194634.png]]
-# Improper Integrals
 
 ## Definition and Types
 

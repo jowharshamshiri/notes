@@ -1,7 +1,6 @@
 ---
 ---
 
-
 ### Exercises
 
 1. Compute $A \cup B$, $A \cap B$ for sets like $A = (1,3)$, $B = (2,4)$.

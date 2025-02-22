@@ -3,7 +3,6 @@
 
 ![[Screenshot 2025-02-20 at 15.17.28.png]]![[Screenshot 2025-02-20 at 15.45.19.png]]![[Screenshot 2025-02-20 at 15.45.27.png]]
 
-# Eigen Values and Vectors
 
 ## Definition
 

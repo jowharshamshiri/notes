@@ -1,7 +1,6 @@
 ---
 ---
 
-
 ## Definition
 
 A **linear transformation** (or linear map) is a function T: V → W between vector spaces that preserves the operations of vector addition and scalar multiplication. Specifically, for all vectors u, v ∈ V and all scalars c:

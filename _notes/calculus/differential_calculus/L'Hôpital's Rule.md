@@ -1,8 +1,6 @@
 ---
 ---
 
-# L'Hôpital's Rule
-
 ## Theorem Statement
 
 ### Basic Form

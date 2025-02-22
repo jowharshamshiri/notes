@@ -1,7 +1,6 @@
 ---
 ---
 
-### Product Rule
 ![[Pasted image 20250220193241.png]]
 ![[Pasted image 20250220193620.png]]
 

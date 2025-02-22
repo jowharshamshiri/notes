@@ -2,13 +2,6 @@
 ---
 
 
-### Chain Rule
-![[Pasted image 20250220193302.png]]
-![[Pasted image 20250220193654.png]]
-
-
-
-### Chain Rule
 ![[Pasted image 20250220193302.png]]
 ![[Pasted image 20250220193654.png]]
 

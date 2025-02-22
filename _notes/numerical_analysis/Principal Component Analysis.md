@@ -3,8 +3,6 @@
 
 ![[Screenshot 2025-02-20 at 15.16.32.png]]![[Screenshot 2025-02-20 at 15.16.46.png]]
 
-# Principal Component Analysis
-
 ## Mathematical Foundation in Linear Algebra
 
 Principal Component Analysis is fundamentally based on key linear algebra concepts:

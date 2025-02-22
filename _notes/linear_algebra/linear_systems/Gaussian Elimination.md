@@ -2,7 +2,6 @@
 ---
 
 ![[Screenshot 2025-02-20 at 15.24.14.png]]
-# Gaussian Elimination
 
 ## Overview
 Gaussian elimination is a method for solving systems of linear equations by transforming the system's augmented matrix into row echelon form.

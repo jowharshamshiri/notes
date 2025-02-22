@@ -1,7 +1,6 @@
 ---
 ---
 
-### Partial Fractions
 ![[Pasted image 20250220194113.png]]
 
 

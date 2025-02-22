@@ -1,12 +1,10 @@
 ---
 ---
 
-
 ### Constant Quotient
 
 ![[Pasted image 20250220194021.png]]
 
-# Derivatives (Rules of Derivation)
 
 ## Definition and Notation
 

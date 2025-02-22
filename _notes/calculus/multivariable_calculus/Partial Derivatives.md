@@ -2,8 +2,6 @@
 ---
 
 ![[Screenshot 2025-02-20 at 16.14.00.png]]
-# Partial Derivatives
-
 ## Definition and Notation
 
 For a function $f(x, y, z, ...)$ of multiple variables, the partial derivative with respect to a single variable measures the rate of change of the function with respect to that variable while holding all other variables constant.

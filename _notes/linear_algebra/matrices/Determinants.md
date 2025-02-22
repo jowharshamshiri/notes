@@ -5,8 +5,6 @@
 
 ![[Screenshot 2025-02-20 at 15.28.20.png]]
 
-# Determinants
-
 ## Definition and Basic Properties
 
 The determinant is a scalar value that can be calculated from the elements of a square matrix. It provides important information about the matrix, such as whether it is invertible.

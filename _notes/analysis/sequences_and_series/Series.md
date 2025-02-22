@@ -2,7 +2,6 @@
 ---
 
 ![[Screenshot 2025-02-20 at 16.13.06.png]]
-# Series (including Taylor Series)
 
 ## Types of Series
 

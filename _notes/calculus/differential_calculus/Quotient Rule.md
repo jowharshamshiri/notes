@@ -1,7 +1,6 @@
 ---
 ---
 
-### Quotient Rule
 ![[Pasted image 20250220193225.png]]
 ![[Pasted image 20250220193553.png]]
 

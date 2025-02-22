@@ -2,8 +2,6 @@
 ---
 
 ![[Screenshot 2025-02-20 at 13.44.51.png]]
-# Convergence Tests
-
 ## Infinite Series Fundamentals
 
 An infinite series is an expression of the form $\sum_{n=1}^{\infty} a_n = a_1 + a_2 + a_3 + \ldots$, where $a_n$ is the general term of the sequence.

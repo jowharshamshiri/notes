@@ -17,8 +17,6 @@
 
 ![[Pasted image 20250220165050.png]]
 
-# Critical Points
-
 ## Definition and Types
 
 ### Basic Definition

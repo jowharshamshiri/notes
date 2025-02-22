@@ -1,8 +1,6 @@
 ---
 ---
 
-# Critical Points in Multivariable Functions
-
 Critical points in multivariable calculus extend the concept from single-variable calculus to functions of multiple variables. For single-variable critical points, see [[../differential_calculus/Critical Points]].
 ### Exercises
 

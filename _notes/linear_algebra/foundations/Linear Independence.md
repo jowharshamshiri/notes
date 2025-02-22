@@ -1,7 +1,6 @@
 ---
 ---
 
-
 ## Definition
 
 A set of vectors {v₁, v₂, ..., vₙ} in a vector space V is **linearly independent** if the only solution to the vector equation:

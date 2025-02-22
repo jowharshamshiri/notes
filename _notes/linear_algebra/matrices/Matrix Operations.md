@@ -1,7 +1,6 @@
 ---
 ---
 
-
 ## Matrix Addition
 For matrices A and B of the same dimensions m × n:
 - (A + B)ᵢⱼ = Aᵢⱼ + Bᵢⱼ

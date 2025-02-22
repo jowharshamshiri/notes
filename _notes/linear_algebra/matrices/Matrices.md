@@ -2,7 +2,6 @@
 ---
 
 
-
 ![[Screenshot 2025-02-20 at 14.53.08.png]]![[Screenshot 2025-02-20 at 14.53.55.png]]
 
 ![[Screenshot 2025-02-20 at 15.13.45.png]]

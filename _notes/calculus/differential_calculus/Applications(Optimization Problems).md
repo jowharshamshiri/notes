@@ -1,8 +1,6 @@
 ---
 ---
 
-# Optimization Applications (Single Variable)
-
 This file covers applications of differentiation to optimization problems in single-variable calculus. For multivariable optimization, see [[Optimization(Multivariable)]].
 
 ## See

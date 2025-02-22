@@ -1,8 +1,6 @@
 ---
 ---
 
-# Integration Techniques
-
 ## Basic Integration Rules
 
 ### Power Rule

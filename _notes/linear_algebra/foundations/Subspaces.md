@@ -1,8 +1,6 @@
 ---
 ---
 
-# Subspaces
-
 ## Definition
 
 A **subspace** of a vector space V is a subset W of V that is itself a vector space under the same operations of addition and scalar multiplication. To be a subspace, W must satisfy three conditions:
