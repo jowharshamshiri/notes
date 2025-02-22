@@ -12,3 +12,4 @@ While SVD is fundamentally a linear algebra concept, it has powerful application
 5. **Computational Methods**: Numerical stability in various matrix computations
 
 The numerical implementation of SVD uses algorithms such as the Golub-Reinsch method or the Jacobi method, which balance computational efficiency with numerical stability.
+

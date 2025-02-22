@@ -7,7 +7,7 @@
 
 Singular Value Decomposition (SVD) is a powerful matrix factorization technique with numerous applications in numerical computing and data analysis.
 
-**For comprehensive coverage of this topic, see: [[../linear_algebra/advanced_topics/Singular Value Decomposition]]**
+**For comprehensive coverage of this topic, see: [[Singular Value Decomposition]]**
 
 ## Numerical Analysis Applications
 
@@ -28,6 +28,7 @@ Several algorithms exist for computing the SVD:
 3. **Randomized SVD**: Approximates SVD for very large matrices where traditional algorithms are too costly
 
 These numerical implementations balance computational efficiency, memory usage, and numerical stability.
+
 ### See Also
 
 - ### [[Principal Component Analysis]]
