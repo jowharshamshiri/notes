@@ -262,7 +262,7 @@ The integral converges to a finite value.
    - Ensure proper handling of indeterminate forms
    - Use alternative methods to confirm results when possible
 
-See Also:
+See:
 - [[Integration Techniques]]
 - [[Antiderivatives]]
 - [[L'Hôpital's Rule]]

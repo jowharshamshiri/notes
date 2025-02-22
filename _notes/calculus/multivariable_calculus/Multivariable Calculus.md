@@ -1,7 +1,7 @@
 ---
 ---
 
-### See Also
+### See
 
 - ### [[Functions of Several Variables]]
 

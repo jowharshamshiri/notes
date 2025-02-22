@@ -328,7 +328,7 @@ Solution:
 3. **Verify extreme values by comparing function values at all critical points**
 4. **Use geometric intuition as a sanity check**
 
-## See Also
+## See
 - [[Gradients]]
 - [[Critical Points (Multivariable)]]
 - [[Local Extrema]]

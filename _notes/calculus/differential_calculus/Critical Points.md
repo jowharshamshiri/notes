@@ -221,7 +221,7 @@ For a function $f(x, y)$:
    - If $D < 0$, then $(a, b)$ is a saddle point
    - If $D = 0$, the test is inconclusive
 
-## See Also
+## See
 
 - [[Critical Points (Multivariable)]] - For classification of critical points in multiple variables
 - [[Extrema]] - For global extrema concepts

@@ -10,7 +10,7 @@
 ![[Screenshot 2025-02-20 at 15.23.00.png]]![[Screenshot 2025-02-20 at 15.23.10.png]]![[Screenshot 2025-02-20 at 15.25.29.png]]![[Screenshot 2025-02-20 at 15.27.02.png]]
 ![[Screenshot 2025-02-20 at 15.43.18.png]]
 
-### See Also
+### See
 
 - ### [[Matrix Operations]]
 

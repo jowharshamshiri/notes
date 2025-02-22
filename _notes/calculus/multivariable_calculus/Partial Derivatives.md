@@ -205,7 +205,7 @@ As expected, $f_{xy} = f_{yx}$.
    - Test with simple values when possible
    - For mixed derivatives, verify that $f_{xy} = f_{yx}$ as a sanity check
 
-See Also:
+See:
 - [[Gradients]]
 - [[Directional Derivatives]]
 - [[Critical Points (Multivariable)]]

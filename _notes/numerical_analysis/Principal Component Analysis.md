@@ -15,7 +15,7 @@ Principal Component Analysis is fundamentally based on key linear algebra concep
 
 The operation can be viewed as finding the eigenvectors of the covariance matrix, which represent the directions of maximum variance in the data.
 
-### See Also
+### See
 
 - ### [[Statistical Learning]]
 

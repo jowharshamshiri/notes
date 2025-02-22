@@ -5,7 +5,7 @@
 
 This file covers applications of differentiation to optimization problems in single-variable calculus. For multivariable optimization, see [[Optimization(Multivariable)]].
 
-## See Also
+## See
 
 - [[Optimization(Multivariable)]] - For multivariable optimization problems
 - [[Applied Optimization]] - For numerical and applied optimization techniques

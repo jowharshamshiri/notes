@@ -15,7 +15,7 @@ Complex numbers are essential in linear algebra for:
 - Understanding rotations and scaling operations
 - Providing algebraic closure for polynomial equations
 
-## See Also
+## See
 
 - [[Complex Eigen Values]]
 - [[Conjugate Pairs]]

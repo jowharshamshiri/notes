@@ -389,13 +389,13 @@ The concepts in vector calculus build directly on fundamental ideas from linear 
 - Cross products from [[Cross Product]]
 - Vector spaces from [[Vector Spaces]]
 
-## See Also
+## See
 - [[Vector Geometry]]
 - [[Gradients]]
 - [[Multiple Integrals]]
 - [[Derivatives]] - For foundation of differential operators
 - [[Integration Techniques]] - For foundation of integral operators
-### See Also
+### See
 
 - ### [[Multivariable Calculus]]
 

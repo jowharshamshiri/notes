@@ -131,7 +131,7 @@ For exponential and logarithmic functions:
 - Apply the relationship between exponentials and logarithms
 - Consider Taylor series for complex expressions
 
-See Also:
+See:
 - [[L'Hôpital's Rule]]
 - [[Taylor Series]]
 - [[Continuity]]

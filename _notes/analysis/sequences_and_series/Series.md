@@ -281,7 +281,7 @@ $\int_0^1 \frac{\sin(x^2)}{x} \, dx \approx 0.5 - 0.02778 + 0.00083 - \ldots \ap
    - Use term-by-term differentiation or integration
    - Approximate integrals that lack elementary antiderivatives
 
-See Also:
+See:
 - [[Convergence Tests]]
 - [[Sequences]]
 - [[Power Series]]

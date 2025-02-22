@@ -133,7 +133,7 @@ $$\lim_{x \to 0} \frac{\cos x - 1 - \frac{x^2}{2}}{x^4}$$
 1. Taylor expansion of $\cos x = 1 - \frac{x^2}{2} + \frac{x^4}{24} - \cdots$
 2. Substituting: $\lim_{x \to 0} \frac{\frac{x^4}{24} - \cdots}{x^4} = \frac{1}{24}$
 
-See Also:
+See:
 - [[Limits]]
 - [[Taylor Series]]
 - [[Derivatives]]

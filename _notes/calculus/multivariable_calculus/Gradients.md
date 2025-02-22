@@ -241,7 +241,7 @@ Solving this system with the constraint yields critical points where the functio
    - Use the gradient to determine the normal vector
    - Formulate the equation of the tangent plane or normal line
 
-See Also:
+See:
 - [[Partial Derivatives]]
 - [[Directional Derivatives]]
 - [[Critical Points (Multivariable)]]

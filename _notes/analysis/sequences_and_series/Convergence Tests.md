@@ -221,7 +221,7 @@ Since $\sum_{n=1}^{\infty} \frac{1}{n^2}$ converges (p-series with p = 2 > 1), a
    - Double-check your work, especially with complex manipulations
    - Confirm that all conditions of the test you're using are satisfied
 
-See Also:
+See:
 - [[Series]]
 - [[Sequences]]
 - [[Improper Integrals]]

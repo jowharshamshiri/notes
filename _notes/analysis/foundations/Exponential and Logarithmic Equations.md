@@ -1,7 +1,7 @@
 ---
 ---
 
-### See Also
+### See
 ### - [[Eulers Number]]
 ### - [[Natural Logarithm]]
 ### Exercises

@@ -224,7 +224,7 @@ $\psi'(x) = \frac{(x+1)^2(x-5)}{(x-1)^3}$
 4. **Evaluate the function** at critical points and endpoints (if applicable).
 5. **Compare the values** to find the maximum or minimum.
 
-See Also:
+See:
 
 - [[Critical Points]]
 - [[Higher Derivatives]]
@@ -233,7 +233,7 @@ See Also:
 - [[Quotient Rule]]
 - [[Power Rule]]
 
-### See Also
+### See
 
 - ### [[Rules of Derivation]]
 

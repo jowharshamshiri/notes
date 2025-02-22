@@ -4,7 +4,7 @@
 
 This file covers practical applications of differential equations in various fields.
 
-## See Also
+## See
 
 - [[First-Order ODEs]] - For techniques for solving first-order applications
 - [[Second-Order ODEs]] - For techniques for solving second-order applications

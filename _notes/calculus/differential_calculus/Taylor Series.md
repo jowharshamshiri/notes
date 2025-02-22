@@ -102,7 +102,7 @@ Taylor series are a specific type of power series where the coefficients are det
 
 Taylor series can be used to find solutions to differential equations, particularly when other methods are difficult to apply. The coefficients in the series can often be determined recursively from the differential equation.
 
-## See Also
+## See
 
 - [[Power Series]]
 - [[Series]]

@@ -3,7 +3,7 @@
 
 ![[Screenshot 2025-02-20 at 13.47.11.png]]![[Screenshot 2025-02-20 at 13.47.28.png]]
 
-## See Also
+## See
 
 - [[Exponential and Logarithmic Equations]]
 - [[Eulers Number]]

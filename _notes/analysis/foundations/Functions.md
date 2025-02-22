@@ -2,7 +2,7 @@
 ---
 
 
-See also:
+See:
 [[Trigonometric Functions]]
 [[Asymptotes]]
 [[Critical Points]]

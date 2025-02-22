@@ -1,7 +1,7 @@
 ---
 ---
 
-## See Also
+## See
 
 - [[linear_algebra/eigen_theory/Complex Eigen Values]] - For application in eigenvalue problems
 - [[linear_algebra/eigen_theory/Conjugate Pairs]] - For complex eigenvalue pairs

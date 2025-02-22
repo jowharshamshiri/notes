@@ -29,7 +29,7 @@ Several algorithms exist for computing the SVD:
 
 These numerical implementations balance computational efficiency, memory usage, and numerical stability.
 
-### See Also
+### See
 
 - ### [[Principal Component Analysis]]
 

@@ -1,7 +1,7 @@
 ---
 ---
 
-### See Also
+### See
 
 - ### [[Inner Product Spaces]]
 

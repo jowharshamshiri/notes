@@ -423,7 +423,7 @@ Interior-point methods traverse the interior of the feasible region toward the o
 - Finding Nash equilibria in economic games
 - Market clearing prices in auction mechanisms
 
-## See Also
+## See
 
 - [[Optimization(Multivariable)]]
 - [[Least Squares Approximation]]

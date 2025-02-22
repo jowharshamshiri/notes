@@ -91,6 +91,6 @@
 3. sin(2x) = -2
 4. Since |sin θ| ≤ 1, this has no solution
 
-See Also:
+See:
 - [[Trigonometric Functions]]
 - [[Trigonometric Equations]]

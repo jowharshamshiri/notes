@@ -5,7 +5,7 @@
 
 This file covers the use of integration to compute geometric quantities such as areas, volumes, and arc lengths.
 
-## See Also
+## See
 
 - [[Integration Techniques]] - For methods of computing these integrals
 - [[Multiple Integrals]] - For higher-dimensional geometric applications

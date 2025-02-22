@@ -18,7 +18,7 @@
 ![[Screenshot 2025-02-20 at 13.48.25.png]]
 
 
-See also:
+See:
 [[Improper Integrals]]
 [[Integration Techniques]]
 

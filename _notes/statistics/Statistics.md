@@ -15,7 +15,7 @@
 
 
 
-## See Also
+## See
 
 - ### [[Inferential Statistics]]
 

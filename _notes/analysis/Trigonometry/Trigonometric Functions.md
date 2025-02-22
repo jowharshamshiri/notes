@@ -122,7 +122,7 @@ For 2sin²x > 1:
   - The hypotenuse is a√2
   - Both legs are equal (a)
 
-## See Also
+## See
 
 - [[Trigonometric Identities]]
 - [[Trigonometric Equations]]

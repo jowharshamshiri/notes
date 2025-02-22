@@ -256,7 +256,7 @@ Let $u = \frac{x}{\sqrt{2}}$, then $dx = \sqrt{2} \, du$
 The integral becomes:
 $$\frac{1}{2}\int \frac{\sqrt{2} \, du}{u^2+1} = \frac{\sqrt{2}}{2}\int \frac{du}{u^2+1} = \frac{\sqrt{2}}{2} \arctan(u) + C = \frac{\sqrt{2}}{2} \arctan\left(\frac{x}{\sqrt{2}}\right) + C$$
 
-See Also:
+See:
 - [[Power Rule]]
 - [[Antiderivatives]]
 - [[Derivatives]]
@@ -264,7 +264,7 @@ See Also:
 - [[Integration by Parts]]
 - [[Partial Fractions]]
 
-### See Also
+### See
 ### - [[Power Rule]]
 ### - [[Antiderivatives]]
 ### - [[Derivatives]]

@@ -224,7 +224,7 @@ For A = $\begin{bmatrix} 2 & 1 & 0 \\ 0 & 1 & -1 \\ 0 & 2 & 4 \end{bmatrix}$:
 3. Form the matrix P whose columns are these eigenvectors
 4. Verify that P⁻¹AP = diag(λ₁, λ₂, λ₃)
 
-See Also:
+See:
 - [[Real Eigen Values]]
 - [[Complex Eigen Values]]
 
