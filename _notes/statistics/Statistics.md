@@ -19,7 +19,7 @@
 
 - ### [[Inferential Statistics]]
 
-- ### [[statistics/Statistical Learning]]
+- ### [[Statistical Learning]]
 
 - ### [[Regression]]
 
